@@ -8,4 +8,22 @@
     <string name="title_musica">Música</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="valtitleprincipal">FRAGMENTOS EN ANDROID</string>
+    <string name="valetfullname">Enter full name</string>
+    <string name="valetemail">Enter email</string>
+    <string name="valrbmale">Male</string>
+    <string name="valrbfemale">Female</string>
+    <string name="valrbother">Other</string>
+    <string name="valcklicense">License</string>
+    <string name="valckcar">Car</string>
+    <string name="valbtsave">SAVE</string>
+    <string-array name="country_array">
+        <item>ARGENTINA</item>
+        <item>COLOMBIA</item>
+        <item>URUGUAY</item>
+        <item>VENEZUELA</item>
+        <item>ECUADOR</item>
+        <item>BOLIVIA</item>
+        <item>PERU</item>
+    </string-array>
 </resources>
